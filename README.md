@@ -70,8 +70,10 @@ Tu arsenal definitivo de metodologías, estándares y enfoques modernos para bug
 • <a href="https://github.com/Aquiles369/arsenal-de-bug-bounty-recursos/new/main/asset" target="_blank" rel="noopener">Consejos para clasificar CVSS </a>
 
 
+• <a href="http://infosecmatter.com/bug-bounty-tips/" target="_blank" rel="noopener">infosecmatter 7 categorias de bug bounty</a>
 
-• <a href="https://github.com/Aquiles369/arsenal-de-bug-bounty-recursos/blob/main/asset/consejos_burp_suite_trucos_tecaldos%20-%20copia.png" target="_blank" rel="noopener">Consejos Burp Suite </a>
+
+• <a href="https://github.com/Aquiles369/arsenal-de-bug-bounty-recursos/blob/main/asset/consejos_burp_suite_trucos_tecaldos%20-%20copia.png" target="_blank" rel="noopener">
 
 
 
