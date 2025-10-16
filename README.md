@@ -11,11 +11,11 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdnNG91amZxZDUydHc2ZTB3bWp4bmw4NDhpbnhlY2dwa3d4YjZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NMCpTBlTEYbCw/giphy.gif" width = 75px>  </picture> 300 tips para bug bounty
+ ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVpNTBhYnE5dHlsOHZ1cWJrcXQwdHRyZXR3Z2MwNGI4eGJ6dTdvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OdRnuJcDlSO6Gl4U0m/giphy.gif" width = 75px>  </picture> 300 tips para bug bounty
 
 <br>
 
- **Compilación de más de 25 metodologías ofensivas y estándares de referencia que cubren desde enfoques clásicos (NahamSec, Jason Haddix, HackTricks) hasta guías modernas para APIs, LLMs, CMS, nube y más. Incluye recursos estratégicos, estándares globales (OWASP, OSSTM, MITRE ATT&CK) y aportes extra de expertos, centralizados en un solo punto,<a href="https://www.youtube.com/watch?v=_xKHM4iSx6Y" target="_blank" rel="noopener">demo en mi canal de Youtube</a>.** 
+ **Colección estratégica de más de 300 tips esenciales de bug bounty, clasificaciones CVSS, guías de Burp Suite, canales recomendados y recursos avanzados como Pentesting Bible y Infosecmatter, todo reunido para potenciar tu proceso de caza.** 
 <br><br> 
 
 <p align="center">
@@ -26,24 +26,24 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTR2MWIyMjRpYjlscGY2MXQwMG04bG5zdTV6dG9heWRsOWdjcXp4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FasLs2XEO5G2A/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
-**Evita la fragmentación de recursos y el caos de buscar en múltiples fuentes. Reúne todo el conocimiento táctico necesario para planificar, ejecutar y documentar auditorías web desde la recon hasta la explotación avanzada, acelerando el flujo de trabajo.**
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF5emxoamM3dGx0bmFvczBuNnlvaTVhdXNkZGZ5bGhhZTZ1MTFxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8OGSU60QOHwrpBn33w/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+**Reduce drásticamente el tiempo de aprendizaje y evita errores comunes al cazar vulnerabilidades. Centraliza consejos dispersos y conocimiento práctico en un único recurso accesible y organizado.**
 <br><br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2kyenV0bGgxbzd6ZnNrNTI5c3RqZTViaHI4ZzhtbTBrcTA3b3o1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/12J5TZCmhpM5mE/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-**• Proporciona rutas probadas usadas por los mejores bug hunters.<br><br>
-• Permite diseñar estrategias de ataque completas basadas en estándares globales.<br><br>
-• Facilita la automatización del pensamiento ofensivo, conectando teoría con práctica real.<br><br>
-• Mejora la precisión y profundidad de las auditorías con metodologías contrastadas.** 
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsbnlkdDNreGMzdHJzNnAzeXE0dW1hbGhuMHdxYjI0MGttbHl5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+**• Brinda atajos mentales y tácticos usados por los mejores cazadores.<br><br>
+• Mejora la eficiencia y precisión en cada fase: recon, explotación, reporte.<br><br>
+• Facilita el crecimiento continuo con consejos de expertos, herramientas clave y estrategias reales.<br><br>
+• Aumenta el rendimiento en plataformas de bug bounty y pentesting.** 
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFwN2dveHoyOTBsOGxqZTE3OGJzMXNweTFycW9sbWd6NWo2aWZoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GltC4HZLjJLvq/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdpaHg3Y3VjZXp5aWkwcXpmY2ZsM25pZjM3Njh5eGh6MWtsMDl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-Tu arsenal definitivo de metodologías, estándares y enfoques modernos para bug bounty, todo centralizado y listo para aplicar en cualquier entorno.<br><br>
+Un compendio ultra práctico de tips, guías y consejos tácticos que acelera tu curva de aprendizaje y multiplica tus resultados en bug bounty.<br><br>
 
 
 
@@ -93,7 +93,7 @@ Tu arsenal definitivo de metodologías, estándares y enfoques modernos para bug
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Domina el caos del ciberespacio con el mapa maestro de los cazadores.”
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Pequeños tips, grandes recompensas: el arte del bug bounty destilado.”
 <br>
 
 
