@@ -1,18 +1,17 @@
-# 300-tips-para-bug-bounty
-<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Metodología web +25"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"> </h1>	
+<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"300 tips para bug bounty"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"> </h1>	
 
 
 <br>
 
 
 <p align="center">
- <img  height="470rem" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdjZXprd2FvdnlsZGhodjd2ZTBxMnJ2czVzM2F6MWprcWlqdzB5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hAB2oN0c9UGmbK4Cmk/giphy.gif"/>
+ <img  height="470rem" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdsYXJiZHM4cXUxZWduYzMxaDM1czRpcm44bGtqdGpwZzlmYnBiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iCprC34GWFPgKG4dFe/giphy.gif"/>
 </p>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdnNG91amZxZDUydHc2ZTB3bWp4bmw4NDhpbnhlY2dwa3d4YjZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NMCpTBlTEYbCw/giphy.gif" width = 75px>  </picture> Metodología web +25
+ ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdnNG91amZxZDUydHc2ZTB3bWp4bmw4NDhpbnhlY2dwa3d4YjZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NMCpTBlTEYbCw/giphy.gif" width = 75px>  </picture> 300 tips para bug bounty
 
 <br>
 
