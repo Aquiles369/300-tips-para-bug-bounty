@@ -26,7 +26,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBrd211cGtvZGRscGMzaGQ2MTh3YmhrdHozMjk4cHpjdm9hbW1mYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X4Q1Zp2fOz0wpXqrTs/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRrZmoyYW11ZHFwa2ZnMWQ4Nm8ya2NkaTl2cWg0NGVvZ3lxZWg4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VHstASQWc1XYpGAFwv/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
 **Reduce drásticamente el tiempo de aprendizaje y evita errores comunes al cazar vulnerabilidades. Centraliza consejos dispersos y conocimiento práctico en un único recurso accesible y organizado.**
 <br><br>
 
