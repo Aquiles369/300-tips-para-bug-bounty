@@ -19,7 +19,7 @@
 <br><br> 
 
 <p align="center">
- <img  height="320rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_25_metodologias_web.gif"/>
+ <img  height="320rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_consejos_300.gif"/>
 </p>
 
 <br>
