@@ -30,7 +30,7 @@
 **Reduce drásticamente el tiempo de aprendizaje y evita errores comunes al cazar vulnerabilidades. Centraliza consejos dispersos y conocimiento práctico en un único recurso accesible y organizado.**
 <br><br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsbnlkdDNreGMzdHJzNnAzeXE0dW1hbGhuMHdxYjI0MGttbHl5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdyaXhzZHh4cTVzeHRqbHFiOGsxeDNhZHBxY3QxOWI1anRiMGpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BpWQv2I33psHbhXbk0/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 **• Brinda atajos mentales y tácticos usados por los mejores cazadores.<br><br>
 • Mejora la eficiencia y precisión en cada fase: recon, explotación, reporte.<br><br>
 • Facilita el crecimiento continuo con consejos de expertos, herramientas clave y estrategias reales.<br><br>
@@ -50,7 +50,7 @@ Un compendio ultra práctico de tips, guías y consejos tácticos que acelera tu
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl1OHBlYWpyNXU4dXI4eGVnYndlbGl2dDA5ZHM2d3o2cmh1NW43NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1UXPxRCvXOH2niS8ie/giphy.gif" width = 80px>  </picture> Tips <br><br>
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGszcGVwZDQyY3E3c3dxa291enV3aWluN3QwYTZkd3JrcmN5c2gzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fBuzTdpZyB4NDIXoZ/giphy.gif" width = 80px>  </picture> Tips <br><br>
 
 
 
