@@ -72,9 +72,10 @@ Tu arsenal definitivo de metodologías, estándares y enfoques modernos para bug
 
 • <a href="http://infosecmatter.com/bug-bounty-tips/" target="_blank" rel="noopener">infosecmatter 7 categorias de bug bounty</a>
 
+• <a href="https://github.com/Aquiles369/arsenal-de-bug-bounty-recursos/blob/main/asset/canal_youtube_bug_bounty_muy_buenos.txt" target="_blank" rel="noopener">Canales de Bug bounty</a>
 
-• <a href="https://github.com/Aquiles369/arsenal-de-bug-bounty-recursos/blob/main/asset/consejos_burp_suite_trucos_tecaldos%20-%20copia.png" target="_blank" rel="noopener">
 
+• <a href="https://github.com/Aquiles369/arsenal-de-bug-bounty-recursos/blob/main/asset/consejos_burp_suite_trucos_tecaldos%20-%20copia.png" target="_blank" rel="noopener"> Consejos de Burp Suite
 
 
 • <a href="https://dojo-yeswehack.com/" target="_blank" rel="noopener">Consejos cortitos </a><br><br>
