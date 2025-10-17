@@ -15,7 +15,7 @@
 
 <br>
 
- **Colección estratégica de más de 300 tips esenciales de bug bounty, clasificaciones CVSS, guías de Burp Suite, canales recomendados y recursos avanzados como Pentesting Bible y Infosecmatter, todo reunido para potenciar tu proceso de caza.** 
+ **Colección estratégica de más de 300 tips esenciales de bug bounty, clasificaciones CVSS, guías de Burp Suite, canales recomendados y recursos avanzados como Pentesting Bible y Infosecmatter, todo reunido para potenciar tu proceso de caza, <a href="https://www.youtube.com/watch?v=GQ-c5dA1tXE" target="_blank" rel="noopener">demo Youtube</a>** 
 <br><br> 
 
 <p align="center">
